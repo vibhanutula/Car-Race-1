@@ -1,0 +1,18 @@
+.Body-Background{
+    background-image: url("Road.gif");
+    background-position: center;
+    background-size: cover;
+}
+h1,h4{
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    color: rgb(38, 0, 255);
+}
+
+#Racer{
+    border: 3px rgb(239, 248, 255) dashed;
+    background-image: url("Ground.jpg");
+}
